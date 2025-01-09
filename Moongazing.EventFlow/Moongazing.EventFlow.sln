@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D9168B49-AECC-4D9F-9517-4C06891B7107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moongazing.EventFlow", "src\Moongazing.EventFlow\Moongazing.EventFlow.csproj", "{3704EFB7-D6EC-463B-98AF-B8F0ECCFBC78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3704EFB7-D6EC-463B-98AF-B8F0ECCFBC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3704EFB7-D6EC-463B-98AF-B8F0ECCFBC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3704EFB7-D6EC-463B-98AF-B8F0ECCFBC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3704EFB7-D6EC-463B-98AF-B8F0ECCFBC78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3704EFB7-D6EC-463B-98AF-B8F0ECCFBC78} = {D9168B49-AECC-4D9F-9517-4C06891B7107}
+	EndGlobalSection
+EndGlobal
